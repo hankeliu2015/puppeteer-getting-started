@@ -105,3 +105,6 @@ dist
 
 # web scrapping file 
 creds.js
+
+# screenshots testing
+screenshots/
